@@ -1,0 +1,9 @@
+names:
+- turn_left
+- turn_right
+- go_straight
+- stop
+nc: 4
+path: /Users/moss/PycharmProjects/PythonProject/training/yolo_data
+train: train/images
+val: val/images

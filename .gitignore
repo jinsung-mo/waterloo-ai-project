@@ -1,0 +1,23 @@
+# macOS metadata
+._*
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# YOLO/Training
+runs/
+traffic_sign_detection/
+yolo_data/train/
+yolo_data/val/
+*.pt
+*.onnx
+
+# Results
+*.png
+*.jpg
+*.csv
